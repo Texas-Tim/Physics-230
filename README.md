@@ -1,2 +1,2 @@
-# Physics-230
+# Rocket Project
 Project shared between me and Nick
